@@ -75,18 +75,6 @@ Isso me dá uma visão única: entendo o negócio, o dado e o código.
 
 ---
 
-## 📈 GitHub
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocsz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/antoniocsz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocsz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/antoniocsz)
-
-</div>
-
----
-
 ## 📫 Vamos conversar?
 
 Estou aberto a oportunidades, parcerias e trocas de ideias.
