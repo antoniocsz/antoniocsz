@@ -81,7 +81,6 @@ Estou aberto a oportunidades, parcerias e trocas de ideias.
 
 - **LinkedIn:** [@antcesar](https://linkedin.com/in/antcesar)
 - **E-mail:** antcesar.santana@gmail.com
-- **Telefone/WhatsApp:** (71) 99141-8611
 
 <div align="center">
 
